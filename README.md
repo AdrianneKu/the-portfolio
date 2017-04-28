@@ -1,7 +1,7 @@
 # Responsive Bootstrap One Page Website
 One page portfolio created with Bootstrap. Free for personal or commercial use.
 
-![icancode-screenshot](https://cloud.githubusercontent.com/assets/17210875/24583148/af019982-1706-11e7-9dc7-c27b4266fad1.png)
+![theportfolio](https://cloud.githubusercontent.com/assets/17210875/25510415/8c801c9c-2b85-11e7-9b48-f589f84c73eb.png)
 
 ## Get Started
 Choose one of the following options:
