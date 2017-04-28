@@ -6,6 +6,6 @@ One page portfolio created with Bootstrap. Free for personal or commercial use.
 ## Get Started
 Choose one of the following options:
 
-* Clone repo: git clone https://github.com/AdrianneKu/i-can-code.git
+* Clone repo: git clone https://github.com/AdrianneKu/the-portfolio.git
 
 * Fork the repo
