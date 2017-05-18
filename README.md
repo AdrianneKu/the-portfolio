@@ -9,3 +9,5 @@ Choose one of the following options:
 * Clone repo: git clone https://github.com/AdrianneKu/the-portfolio.git
 
 * Fork the repo
+
+* View demo http://adriannekuczynski.me/theportfolio/
